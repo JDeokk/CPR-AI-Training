@@ -15,7 +15,7 @@ You can download the pre-trained model weights (`.pt` files) from the link below
 
 👉 **[Download Model Weights (Google Drive)](https://drive.google.com/drive/folders/1LS-kU9rb3Ol_9F06IULehSbnt1M9ObeH?usp=drive_link)**
 
-> **Note:** After downloading, please place the weight file (e.g., `best_model.pt` or `yolo_all_0404_lr_8e-4_6.pt`) into the `weights/` directory.
+> **Note:** After downloading, please place the weight file into the `weights/` directory.
 
 ## 📂 Project Structure
 ```bash
