@@ -15,13 +15,12 @@ You can download the pre-trained model weights (`.pt` files) from the link below
 
 👉 **[Download Model Weights (Google Drive)](https://drive.google.com/drive/folders/1LS-kU9rb3Ol_9F06IULehSbnt1M9ObeH?usp=drive_link)**
 
-> **Note:** After downloading, please place the weight file into the `weights/` directory.
 
 ## 📂 Project Structure
 ```bash
 CPR-AI-Training/
 ├── data/                   # Place your dataset here
-│   ├── csv/                # CSV annotations (e.g., yolo_all.csv)
+│   ├── csv/                # CSV annotations
 │   ├── images/             # Image files
 │   └── masks/              # Mask files for inpainting
 ├── src/                    # Source code modules
