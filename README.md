@@ -13,7 +13,7 @@ The proposed framework utilizes a sensorless approach to evaluate CPR quality us
 ## 💾 Model Checkpoints
 You can download the pre-trained model weights (`.pt` files) from the link below:
 
-👉 **[Download Model Weights (Google Drive)](https://drive.google.com/drive/folders/1LS-kU9rb3Ol_9F06IULehSbnt1M9ObeH?usp=drive_link)**
+👉 **[Download Model Weights (Google Drive)](https://drive.google.com/drive/folders/1LS-kU9rb3Ol_9F06IULehSbnt1M9ObeH?usp=sharing)**
 
 
 ## 📂 Project Structure
