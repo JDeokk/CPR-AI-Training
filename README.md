@@ -1,4 +1,5 @@
 # Generative AI Driven CPR Training Improvement
+![Uploading CPR_framework.png…]()
 
 ## Overview
 This repository contains the implementation of the paper "Generative AI Driven Improvement of Generalized CPR Training Model and Application Study". 
