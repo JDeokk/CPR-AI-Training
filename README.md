@@ -34,6 +34,7 @@ CPR-AI-Training/
 ├── weights/                # Place downloaded .pt files here
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
+```
 
 ## Usage
 1. Install dependencies: `pip install -r requirements.txt`
