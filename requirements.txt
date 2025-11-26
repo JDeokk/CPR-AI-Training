@@ -1,0 +1,15 @@
+torch>=1.12.0
+torchvision>=0.13.0
+numpy
+pandas
+opencv-python
+scikit-learn
+albumentations
+timm
+diffusers
+transformers
+accelerate
+ultralytics
+tqdm
+natsort
+matplotlib
