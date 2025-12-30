@@ -1,9 +1,11 @@
 # Generative AI Driven CPR Training Improvement
 
+
+
 <img width="550" height="400" alt="CPR_framework" src="framework.png" />
 
 ## 📖 Overview
-This repository contains the official implementation of the paper **"Generative AI Driven Improvement of Generalized CPR Training Model and Application Study"**.
+This repository contains the official implementation of the paper **"Generative AI Driven Improvement of Generalized CPR Training Model and Application Study"**. *under review*
 
 The proposed framework utilizes a sensorless approach to evaluate CPR quality using smartphone cameras. It consists of three main modules:
 1.  **Preprocessing**: CPR performer detection using **YOLO** and **Optical Flow** analysis for compression count (NOC) estimation.
